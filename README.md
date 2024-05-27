@@ -1,2 +1,3 @@
 # MASTES
-MASTES
+MASTES is a Free and open source toolbox based on Mathematica for power system analysis.
+MASTES is developed by Smart Grid Operation and Optimization Laboratory of Zhejiang University. Its current version 1.1 has two functionalities of power flow and optimal power flow. With Mathematica’s powerful symbolic and numerical hybrid computation capability, MASTES frees the users from cumbersome formula deduction and tedious numerical computation programming, helps teachers to instruct and students to learn power system analysis principles and core algorithms easily, and helps researchers to arrive cut-in point of innovations in theory or method quickly, so that the efficiencies of teaching, learning and researching can all be improved.
